@@ -1,9 +1,6 @@
 # 第一次实践课：Pi Agent 安装与基础使用
 
-- 姓名拼音：Aglioble
 - GitHub 账号：aglioble
-- 学号：__________（请自行填写）
-- 完成日期：2026 年 11 月 10 日
 - 作业仓库：https://github.com/Aglioble/pi-practice1
 
 ## 一、实验环境
